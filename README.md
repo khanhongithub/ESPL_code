@@ -1,2 +1,2 @@
-# git_lecture
-git lecture at ESPL
+Nguyen Dinh Khanh
+This is a ESPL git tutorial
